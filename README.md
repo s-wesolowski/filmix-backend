@@ -2,7 +2,7 @@
 
 Api do aplikacji internetowej filmix.
 
-Api napisane w Python 3.10
+Api napisane w Python 3.10 za pomocą frameworku Django
 
 # Do zrobienia
 
