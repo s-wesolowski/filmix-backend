@@ -8,6 +8,8 @@ Api napisane w Python 3.10 za pomocą frameworku Django
 
 > python3 -m venv venv/
 > source venv/bin/activate
+> python manage.py migrate
+> python manage.py runserver
 
 # Do zrobienia
 
